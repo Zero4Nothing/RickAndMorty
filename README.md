@@ -1,2 +1,2 @@
 # RickAndMorty
-How to create a single page application using React and API.
+Creating a single page application using React and API.
